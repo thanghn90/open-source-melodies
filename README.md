@@ -16,5 +16,9 @@ There are several ways:
 - Use Musescore to open the music sheet file (.mscz), then go to File --> Export. Choose among MP3/Wave/FLAC export options.
 - Use a youtube ripping tool (yt-dlp, for example - google it for more detail) to download the audio portion of my uploaded youtube videos associated with each melody.
 
+# Musescore and OpenMPT
+- Musescore: https://musescore.org/en
+- OpenMPT:https://openmpt.org/
+
 # You can thank me later
 All of my files are free for you to use and prosper upon. I don't stick ads to my youtube uploads (because I can't tell you how much I hate ads - that's a completely different story), so you can enjoy my videos without any interruption - and do not even need to rip audio from them.
