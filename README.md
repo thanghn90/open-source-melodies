@@ -20,5 +20,8 @@ There are several ways:
 - Musescore (to open .mscz files): https://musescore.org/en
 - OpenMPT (to open .mo3 files):https://openmpt.org/
 
+See below for the map of OpenMPT channels to fingers.
+![alt text](https://github.com/thanghn90/open-source-melodies/blob/main/hands2.png)
+
 # You can thank me later
 All of my files are free for you to use and prosper upon. I don't stick ads to my youtube uploads (because I can't tell you how much I hate ads - that's a completely different story), so you can enjoy my videos without any interruption - and do not even need to rip audio from them.
